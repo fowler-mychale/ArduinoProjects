@@ -1,4 +1,4 @@
-#Arduino
+# Portfolio Page
 Test:</br>
-![alt text](https://github.com/fowler-mychale/States-Project/blob/master/test.gif "Study Guide")
+![alt text](https://github.com/fowler-mychale/ArduinoProjects/blob/master/demo.gif)
 This will be my arduino project site
